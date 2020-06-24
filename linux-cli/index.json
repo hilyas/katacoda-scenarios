@@ -1,0 +1,34 @@
+{
+  "title": "Learning Linux CLI",
+  "description": "Your First Scenario to Learn Basic Linux CLI Commands",
+  "difficulty": "beginner",
+  "time": "2 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Listing Files",
+      "text": "step1.md"
+    },
+    {
+      "title": "Step 2 - Listing File Details",
+      "text": "step2.md"
+    },
+    {
+      "title": "Step 3 - Listing Hidden Files",
+      "text": "step3.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
