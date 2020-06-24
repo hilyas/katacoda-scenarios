@@ -7,17 +7,14 @@
     "steps": [{
       "title": "Step 1 - Listing Files",
       "text": "step1.md",
-      "code": "clear.sh"
     },
     {
       "title": "Step 2 - Listing File Details",
       "text": "step2.md",
-      "code": "clear.sh"
     },
     {
       "title": "Step 3 - Listing Hidden Files",
       "text": "step3.md",
-      "code": "clear.sh"
     }],
     "intro": {
       "text": "intro.md",
